@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 4E08-2FF3
+
+ Directory of E:\projects\MyProject
+
+26-03-2023  13:48    <DIR>          .
+26-03-2023  13:48    <DIR>          ..
+26-03-2023  13:48                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  457,679,413,248 bytes free
